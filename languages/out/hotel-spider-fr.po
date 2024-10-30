@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spider-Booking 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hotel-spider\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-26T20:12:54+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: hotel-spider\n"
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "Spider-Booking"
+msgstr "Spider-Booking"
+
+msgid ""
+"Hotel-Spider Spider-Booking plugin is for implementing web-booking-engine "
+"functionality on your website."
+msgstr ""
+"Le plugin Hotel-Spider permet de lier la fonctionnalité de moteur de "
+"réservation sur votre site Web."
+
+msgid "Hotel-Spider"
+msgstr "Hotel-Spider"
+
+msgid "https://hotel-spider.com"
+msgstr "https://www.hotel-spider.com"
+
+msgid "Your Hotel ID"
+msgstr "Votre ID d'hôtel"
+
+msgid "Your Channel ID"
+msgstr "Votre identifiant de chaîne"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid ""
+"Hotel ID is not set in the plugin. Please enter Hotel ID in the settings "
+"section and check again."
+msgstr ""
+"L'identifiant de votre hôtel n'est pas défini dans le plugin. Veuillez "
+"entrer l'identifiant de votre hôtel dans la section des paramètres et "
+"vérifier à nouveau."
+
+msgid "Please select"
+msgstr "Veuillez sélectionner"
+
+msgid "Settings - HS Booking Engine"
+msgstr "Paramètres - Moteur de réservation Hotel-Spider"
+
+msgid "Mandatory Field"
+msgstr "Champ obligatoire"
+
+msgid "Optional Field"
+msgstr "Champ optionnel"
+
+msgid "Hotel ID"
+msgstr "ID de l'hôtel"
+
+msgid "Channel ID"
+msgstr "ID du canal"
+
+msgid "Widget Type"
+msgstr "Type de widget"
+
+msgid "Form"
+msgstr "Formulaire"
+
+msgid "iFrame"
+msgstr "iFrame"
+
+msgid "Widget Template"
+msgstr "Modèle de widget"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "German"
+msgstr "Allemand"
+
+msgid "French"
+msgstr "Français"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "Date Format"
+msgstr "Format de date"
+
+msgid "Adults default value"
+msgstr "Valeur par défaut des adultes"
+
+msgid "Children default value"
+msgstr "Valeur par défaut des enfants"
+
+msgid "Infants default value"
+msgstr "Valeur par défaut pour les nourrissons"
+
+msgid "Enable Infants"
+msgstr "Activer les nourrissons"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Promo Code"
+msgstr "Code promo"
+
+msgid "Hotel-Spider Web Booking Engine"
+msgstr "Moteur de réservation Hotel-Spider"
+
+msgid ""
+"Thank you for selecting Hotel Spider Web Booking Engine. Configure the "
+"fileds you want to display in the settings section. Find the shortcode below "
+"which you can use to display booking engine widget on your website."
+msgstr ""
+"Merci d'avoir choisi le moteur de réservation Hotel-Spider. Configurez les "
+"champs que vous souhaitez afficher dans la section des paramètres. Trouvez "
+"le shortcode ci-dessous que vous pouvez utiliser pour afficher le widget du "
+"moteur de réservation sur votre site web."
+
+msgid "Plugin Settings"
+msgstr "Paramètres du plugin"
+
+msgid "To configure the plugin fields please click here - "
+msgstr "Pour configurer les champs du plugin, veuillez cliquer ici - "
+
+msgid "configure now"
+msgstr "configurer maintenant"
+
+msgid "Display Widget"
+msgstr "Widget d'affichage"
+
+msgid "To display the plugin on your website use this shortcode: "
+msgstr "Pour afficher le plugin sur votre site web, utilisez ce shortcode "
+
+msgid "Hotel-Spider Booking Engine Settings"
+msgstr "Paramètres du moteur de réservation Hotel-Spider"

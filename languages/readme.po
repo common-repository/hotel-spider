@@ -1,0 +1,60 @@
+# Translation of Plugins - HS Direct Booking - Development Readme (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - HS Direct Booking - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - HS Direct Booking - Development Readme (trunk)\n"
+
+#. Short description.
+msgid "Hotel Spider Direct Booking plugin is for implementing web based booking engine functionality on your website."
+msgstr ""
+
+#. Plugin name.
+msgid "HS Direct Booking"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Reach out to Hotel-Spider for Hotel ID. You can visit them at http://hotel-spider.com"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No this is free plugin"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I get Hotel ID?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is this paid plugin?"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Upload the HS Booking Engine plugin to your website. Activate the plugin and and configure your settings for Hotel-Spider Web Booking Engine fields like Hotel ID etc."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Hotel Spider Direct Booking plugin is for implementing web based booking engine functionality on your website.\n"
+"Web Booking Engine is our mobile first approach to a conversion obsessed booking engine .\n"
+"On your website you have full control over the content and story you want to transmit to your customers. An elegant booking button transforms your website into an e-commerce platform and drives your direct reservations.\n"
+"Your booking engine is the one tool you have to generate direct reservations on your website. Consequently, we focus on the goal of converting visitors into paying guests. Machine learning and A/B testing allows us to optimize the booking process to increase your revenue."
+msgstr ""
+
+#. Screenshot description.
+msgid "The plugin in action"
+msgstr ""
+
+#. Screenshot description.
+msgid "The plugin configuration page. Here you can configure all the setting for your plugin. You must enter your Hotel ID in order to work this plugin"
+msgstr ""
+
+#. Screenshot description.
+msgid "Hotel Spider Direct Booking Dashboard"
+msgstr ""

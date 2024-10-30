@@ -1,0 +1,26 @@
+.hsbe-white-box{
+	background-color: #fff;
+	padding: 10px 20px 20px 20px;
+	margin-top: 30px;
+	width: calc(100% -40px);
+}
+#hsbe-validation-error{
+	border: 1px solid red;
+	padding: 5px 20px;
+	color: red;
+}
+.hsbe-error-msg-hide{
+	display: none;
+}
+#hsbe-heading{
+	font-size: 2.5em !important;
+}
+#hsbe-spider-booking h2{
+	margin-top: 40px;
+	font-size: 2em;
+	font-weight: 400;
+}
+#hsbe-spider-booking p{
+	font-size: 1.5em;
+	margin: 50px 0 0 0;
+}

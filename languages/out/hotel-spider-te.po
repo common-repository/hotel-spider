@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spider-Booking 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hotel-spider\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-26T20:12:54+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: hotel-spider\n"
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "Spider-Booking"
+msgstr "స్పైడర్‌-బుకింగ్"
+
+msgid ""
+"Hotel-Spider Spider-Booking plugin is for implementing web-booking-engine "
+"functionality on your website."
+msgstr ""
+"మీ వెబ్‌సైట్‌పై వెబ్‌ బుకింగ్-ఇంజన్‌ కార్యాచరణను అమలుచేయడానికి హోటల్‌ "
+"స్పైడర్‌ ప్లగిన్"
+
+msgid "Hotel-Spider"
+msgstr "హోటల్-స్పైడర్"
+
+msgid "https://hotel-spider.com"
+msgstr "https://www.hotel-spider.com"
+
+msgid "Your Hotel ID"
+msgstr "మీ హోటల్ ID"
+
+msgid "Your Channel ID"
+msgstr "మీ ఛానెల్ ID"
+
+msgid "Settings"
+msgstr "సెటింగ్స్"
+
+msgid ""
+"Hotel ID is not set in the plugin. Please enter Hotel ID in the settings "
+"section and check again."
+msgstr ""
+"హోటల్ ID ప్లగిన్‌లో సెట్ చేయబడలేదు. సెట్టింగుల విభాగంలో హోటల్ IDని నమోదు "
+"చేసి, మళ్ళీ తనిఖీ చేయండి."
+
+msgid "Please select"
+msgstr "దయచేసి ఎంచుకోండి"
+
+msgid "Settings - HS Booking Engine"
+msgstr "సెట్టింగ్‌లు - HS బుకింగ్ ఇంజిన్"
+
+msgid "Mandatory Field"
+msgstr "తప్పనిసరి ఫీల్డ్"
+
+msgid "Optional Field"
+msgstr "ఐచ్ఛిక ఫీల్డ్‌"
+
+msgid "Hotel ID"
+msgstr "హోటల్ ID"
+
+msgid "Channel ID"
+msgstr "ఛానెల్ ID"
+
+msgid "Widget Type"
+msgstr "విడ్జెట్ రకం"
+
+msgid "Form"
+msgstr "ఫారం"
+
+msgid "iFrame"
+msgstr "iFrame"
+
+msgid "Widget Template"
+msgstr "విడ్జెట్ టెంప్లెట్‌"
+
+msgid "Horizontal"
+msgstr "క్షితిజసమాంతర"
+
+msgid "Vertical"
+msgstr "నిలువుగా"
+
+msgid "Homepage"
+msgstr "హోమ్‌పేజీ"
+
+msgid "Language"
+msgstr "భాష"
+
+msgid "German"
+msgstr "జర్మన్"
+
+msgid "French"
+msgstr "ఫ్రెంచ్"
+
+msgid "English"
+msgstr "ఇంగ్లీష్"
+
+msgid "Date Format"
+msgstr "తేదీ ఫార్మాట్"
+
+msgid "Adults default value"
+msgstr "పెద్దల డిఫాల్ట్ విలువ"
+
+msgid "Children default value"
+msgstr "పిల్లల డిఫాల్ట్ విలువ"
+
+msgid "Infants default value"
+msgstr "శిశువుల డిఫాల్ట్ విలువ"
+
+msgid "Enable Infants"
+msgstr "శిశువులను ఎనేబుల్‌ చేయండి"
+
+msgid "Yes"
+msgstr "అవును"
+
+msgid "No"
+msgstr "లేదు"
+
+msgid "Promo Code"
+msgstr "ప్రోమో కోడ్"
+
+msgid "Hotel-Spider Web Booking Engine"
+msgstr "హోటల్-స్పైడర్ వెబ్ బుకింగ్ ఇంజిన్"
+
+msgid ""
+"Thank you for selecting Hotel Spider Web Booking Engine. Configure the "
+"fileds you want to display in the settings section. Find the shortcode below "
+"which you can use to display booking engine widget on your website."
+msgstr ""
+"హోటల్-స్పైడర్ వెబ్-బుకింగ్-ఇంజిన్‌ను ఎంచుకున్నందుకు ధన్యవాదాలు. సెట్టింగ్‌ల "
+"విభాగంలో మీరు ప్రదర్శించదలిచిన ఫీల్డ్‌లను కాన్ఫిగర్ చేయండి. మీ వెబ్‌సైట్‌లో "
+"బుకింగ్ ఇంజిన్ విడ్జెట్‌ను ప్రదర్శించడానికి మీరు ఉపయోగించే షార్ట్‌కోడ్‌ను "
+"కనుగొనండి."
+
+msgid "Plugin Settings"
+msgstr "ప్లగిన్ సెట్టింగ్‌లు"
+
+msgid "To configure the plugin fields please click here - "
+msgstr "ప్లగిన్ ఫీల్డ్‌లను కాన్ఫిగర్ చేయడానికి దయచేసి ఇక్కడ క్లిక్ చేయండి -"
+
+msgid "configure now"
+msgstr "ఇప్పుడు కాన్ఫిగర్ చేయండి"
+
+msgid "Display Widget"
+msgstr "విడ్జెట్ ప్రదర్శించండి"
+
+msgid "To display the plugin on your website use this shortcode: "
+msgstr ""
+"మీ వెబ్‌సైట్‌లో ప్లగిన్‌ను ప్రదర్శించడానికి ఈ షార్ట్‌కోడ్‌ను ఉపయోగించండి:"
+
+msgid "Hotel-Spider Booking Engine Settings"
+msgstr "హోటల్-స్పైడర్ బుకింగ్ ఇంజిన్ సెట్టింగ్‌లు"

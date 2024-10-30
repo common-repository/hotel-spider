@@ -1,0 +1,6 @@
+pipelines:
+  tags:
+    '*':
+    - step:
+        script:
+          - ./deployd.sh

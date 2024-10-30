@@ -1,0 +1,17 @@
+{
+    "name": "shwetabh/hs-direct-booking",
+    "description": "Hotel Spider Direct Booking plugin is for implementing directbooking functionality on your website.",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Shwetabh Choudhary",
+            "email": "shwetabh@greyhatch.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {"HSBEInc\\": "./hsbeinc"}
+	}
+}

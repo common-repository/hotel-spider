@@ -1,0 +1,215 @@
+# Copyright (C) 2021 Hotel-Spider
+# This file is distributed under the same license as the Spider-Booking plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spider-Booking 1.2-beta\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hotel-spider\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-07T20:34:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: hotel-spider\n"
+
+#. Plugin Name of the plugin
+msgid "Spider-Booking"
+msgstr ""
+
+#. Description of the plugin
+msgid "Hotel-Spider plugin is for implementing web-booking-engine functionality on your website. Spider-Booking is our mobile first approach to a conversion obsessed web-booking-engine. On your website you have full control over the content and story you want to transmit to your customers. An elegant booking button transforms your website into an e-commerce platform and drives your direct reservations. Your web-booking-engine is the one tool you need have to generate direct reservations on your website. Consequently, we focus on the goal of converting visitors into paying guests. Machine learning and A/B testing allows us to optimize the booking process to increase your revenue."
+msgstr ""
+
+#. Author of the plugin
+msgid "Hotel-Spider"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hotel-spider.com"
+msgstr ""
+
+#: hsbeinc/Api/Callbacks/AdminCallbacks.php:56
+msgid "Your Hotel ID"
+msgstr ""
+
+#: hsbeinc/Base/SettingsLinks.php:16
+#: hsbeinc/Pages/Admin.php:58
+msgid "Settings"
+msgstr ""
+
+#: hsbeinc/Frontend/DisplayWidget.php:20
+msgid "Hotel ID is not set in the plugin. Please enter Hotel ID in the settings section and check again."
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:57
+msgid "Settings - HS Booking Engine"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:88
+msgid "Mandatory Field"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:94
+msgid "Optional Field"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:108
+msgid "Hotel ID"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:120
+msgid "Channel ID"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:133
+msgid "Widget Type"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:140
+#: hsbeinc/Pages/Admin.php:157
+#: hsbeinc/Pages/Admin.php:175
+#: hsbeinc/Pages/Admin.php:193
+msgid "Please select"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:141
+msgid "Form"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:142
+msgid "iFrame"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:150
+msgid "Widget Template"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:158
+msgid "Horizontal"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:159
+msgid "Vertical"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:160
+msgid "Homepage"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:168
+msgid "Language"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:176
+msgid "German"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:177
+msgid "French"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:178
+msgid "English"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:186
+msgid "Date Format"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:227
+msgid "Adults default value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:249
+msgid "Adults minimum value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:271
+msgid "Adults maximum value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:293
+msgid "Children default value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:312
+msgid "Children minimum value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:331
+msgid "Children maximum value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:350
+msgid "Enable Infants"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:357
+msgid "Yes"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:358
+msgid "No"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:366
+msgid "Infants default value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:385
+msgid "Infants minimum value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:404
+msgid "Infants maximum value"
+msgstr ""
+
+#: hsbeinc/Pages/Admin.php:423
+msgid "Promo Code"
+msgstr ""
+
+#: templates/adminDashboard.php:2
+msgid "Hotel-Spider Web Booking Engine"
+msgstr ""
+
+#: templates/adminDashboard.php:3
+msgid "Thank you for selecting Hotel-Spider Web-Booking-Engine. Configure the fields you want to display in the settings section. Find the shortcode below which you can use to display booking engine widget on your website."
+msgstr ""
+
+#: templates/adminDashboard.php:6
+msgid "Plugin Settings"
+msgstr ""
+
+#: templates/adminDashboard.php:8
+msgid "To configure the plugin fields please click here - "
+msgstr ""
+
+#: templates/adminDashboard.php:9
+msgid "configure now"
+msgstr ""
+
+#: templates/adminDashboard.php:14
+msgid "Display Widget"
+msgstr ""
+
+#: templates/adminDashboard.php:16
+msgid "To display the plugin on your website use this shortcode: "
+msgstr ""
+
+#: templates/adminSettings.php:2
+msgid "Hotel-Spider Booking Engine Settings"
+msgstr ""
+
+#: templates/adminSettings.php:4
+msgid "Adults minimum value is greater than maximum value"
+msgstr ""
+
+#: templates/adminSettings.php:5
+msgid "Children minimum value is greater than maximum value"
+msgstr ""
+
+#: templates/adminSettings.php:6
+msgid "Infants minimum value is greater than maximum value"
+msgstr ""

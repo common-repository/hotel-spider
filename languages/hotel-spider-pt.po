@@ -1,0 +1,183 @@
+# Copyright (C) 2021 Hotel-Spider
+# This file is distributed under the same license as the Spider-Booking plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spider-Booking 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hotel-spider\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-17T12:11:32+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: hotel-spider\n"
+
+#. Plugin Name of the plugin
+msgid "Spider-Booking"
+msgstr "Reservas Spider"
+
+#. Description of the plugin
+msgid "Hotel-Spider plugin is for implementing web-booking-engine functionality on your website"
+msgstr "O plugin Hotel-Spider é para implementar a funcionalidade do mecanismo de reserva pelo sitio web."
+
+#. Author of the plugin
+msgid "Hotel-Spider"
+msgstr "Hotel-Spider"
+
+#. Author URI of the plugin
+msgid "https://hotel-spider.com"
+msgstr "https://hotel-spider.com"
+
+#: hsbeinc/Api/Callbacks/AdminCallbacks.php:33
+msgid "Your Hotel ID"
+msgstr "Seu ID do hotel"
+
+#: hsbeinc/Api/Callbacks/AdminCallbacks.php:42
+msgid "Your Channel ID"
+msgstr "Sua identificação do canal"
+
+#: hsbeinc/Base/SettingsLinks.php:16
+#: hsbeinc/Pages/Admin.php:61
+msgid "Settings"
+msgstr "Definições"
+
+#: hsbeinc/Frontend/DisplayWidget.php:20
+msgid "Hotel ID is not set in the plugin. Please enter Hotel ID in the settings section and check again."
+msgstr "O ID do hotel não está definido no plugin. Por favor, introduza o ID do Hotel na seção de definições e verifique novamente."
+
+#: hsbeinc/Pages/Admin.php:60
+msgid "Settings - HS Booking Engine"
+msgstr "Definições - HS Booking Engine"
+
+#: hsbeinc/Pages/Admin.php:127
+msgid "Mandatory Field"
+msgstr "Campo obrigatório"
+
+#: hsbeinc/Pages/Admin.php:133
+msgid "Optional Field"
+msgstr "Campo opcional"
+
+#: hsbeinc/Pages/Admin.php:147
+msgid "Hotel ID"
+msgstr "ID do hotel"
+
+#: hsbeinc/Pages/Admin.php:158
+msgid "Channel ID"
+msgstr "ID do canal"
+
+#: hsbeinc/Pages/Admin.php:170
+msgid "Widget Type"
+msgstr "Tipo de widget"
+
+#: hsbeinc/Pages/Admin.php:176
+#: hsbeinc/Pages/Admin.php:192
+#: hsbeinc/Pages/Admin.php:209
+#: hsbeinc/Pages/Admin.php:226
+msgid "Please select"
+msgstr "Por favor, selecione"
+
+#: hsbeinc/Pages/Admin.php:177
+msgid "Form"
+msgstr "Formulário"
+
+#: hsbeinc/Pages/Admin.php:178
+msgid "iFrame"
+msgstr "Quadro"
+
+#: hsbeinc/Pages/Admin.php:186
+msgid "Widget Template"
+msgstr "Modelo do widget"
+
+#: hsbeinc/Pages/Admin.php:193
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: hsbeinc/Pages/Admin.php:194
+msgid "Vertical"
+msgstr "Vertical"
+
+#: hsbeinc/Pages/Admin.php:195
+msgid "Homepage"
+msgstr "Página inicial"
+
+#: hsbeinc/Pages/Admin.php:203
+msgid "Language"
+msgstr "Idioma"
+
+#: hsbeinc/Pages/Admin.php:210
+msgid "German"
+msgstr "Alemão"
+
+#: hsbeinc/Pages/Admin.php:211
+msgid "French"
+msgstr "Francês"
+
+#: hsbeinc/Pages/Admin.php:212
+msgid "English"
+msgstr "Inglês"
+
+#: hsbeinc/Pages/Admin.php:220
+msgid "Date Format"
+msgstr "Formato da data"
+
+#: hsbeinc/Pages/Admin.php:260
+msgid "Adults default value"
+msgstr "Valor por defeito dos adultos"
+
+#: hsbeinc/Pages/Admin.php:281
+msgid "Children default value"
+msgstr "Valor por defeito das crianças"
+
+#: hsbeinc/Pages/Admin.php:299
+msgid "Enable Infants"
+msgstr "Permitir bebés"
+
+#: hsbeinc/Pages/Admin.php:305
+msgid "Yes"
+msgstr "Sim"
+
+#: hsbeinc/Pages/Admin.php:306
+msgid "No"
+msgstr "Não"
+
+#: hsbeinc/Pages/Admin.php:314
+msgid "Infants default value"
+msgstr "Valor por defeito dos bebés"
+
+#: hsbeinc/Pages/Admin.php:332
+msgid "Promo Code"
+msgstr "Código da promoção"
+
+#: templates/adminDashboard.php:2
+msgid "Hotel-Spider Web Booking Engine"
+msgstr "Motor de reservas web Hotel-Spider"
+
+#: templates/adminDashboard.php:3
+msgid "Thank you for selecting Hotel-Spider Web-Booking-Engine. Configure the fields you want to display in the settings section. Find the shortcode below which you can use to display booking engine widget on your website."
+msgstr "Obrigado por escolher o motor de reservas web do Hotel-Spider. Configure os campos que pretende apresentar na seção de definições. Encontre o shortcode abaixo que você pode usar para exibir o widget do motor de reservas no seu sitio."
+
+#: templates/adminDashboard.php:6
+msgid "Plugin Settings"
+msgstr "Definições de plugin"
+
+#: templates/adminDashboard.php:8
+msgid "To configure the plugin fields please click here - "
+msgstr "Para configurar os campos do plugin clique aqui -"
+
+#: templates/adminDashboard.php:9
+msgid "configure now"
+msgstr "configurar agora"
+
+#: templates/adminDashboard.php:14
+msgid "Display Widget"
+msgstr "Vidget de visualização"
+
+#: templates/adminDashboard.php:16
+msgid "To display the plugin on your website use this shortcode: "
+msgstr "Para mostrar o plugin en seu sitio web utilize este shortcode "
+
+#: templates/adminSettings.php:2
+msgid "Hotel-Spider Booking Engine Settings"
+msgstr "Definições do motor de reservas do Hotel-Spider"

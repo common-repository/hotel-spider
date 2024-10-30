@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spider-Booking 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hotel-spider\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-26T20:12:54+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: hotel-spider\n"
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "Spider-Booking"
+msgstr ""
+
+msgid ""
+"Hotel-Spider Spider-Booking plugin is for implementing web-booking-engine "
+"functionality on your website."
+msgstr ""
+
+msgid "Hotel-Spider"
+msgstr ""
+
+msgid "https://hotel-spider.com"
+msgstr ""
+
+msgid "Your Hotel ID"
+msgstr ""
+
+msgid "Your Channel ID"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid ""
+"Hotel ID is not set in the plugin. Please enter Hotel ID in the settings "
+"section and check again."
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Settings - HS Booking Engine"
+msgstr ""
+
+msgid "Mandatory Field"
+msgstr ""
+
+msgid "Optional Field"
+msgstr ""
+
+msgid "Hotel ID"
+msgstr ""
+
+msgid "Channel ID"
+msgstr ""
+
+msgid "Widget Type"
+msgstr ""
+
+msgid "Form"
+msgstr ""
+
+msgid "iFrame"
+msgstr ""
+
+msgid "Widget Template"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Adults default value"
+msgstr ""
+
+msgid "Children default value"
+msgstr ""
+
+msgid "Infants default value"
+msgstr ""
+
+msgid "Enable Infants"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Promo Code"
+msgstr ""
+
+msgid "Hotel-Spider Web Booking Engine"
+msgstr ""
+
+msgid ""
+"Thank you for selecting Hotel Spider Web Booking Engine. Configure the "
+"fileds you want to display in the settings section. Find the shortcode below "
+"which you can use to display booking engine widget on your website."
+msgstr ""
+
+msgid "Plugin Settings"
+msgstr ""
+
+msgid "To configure the plugin fields please click here - "
+msgstr ""
+
+msgid "configure now"
+msgstr ""
+
+msgid "Display Widget"
+msgstr ""
+
+msgid "To display the plugin on your website use this shortcode: "
+msgstr ""
+
+msgid "Hotel-Spider Booking Engine Settings"
+msgstr ""
